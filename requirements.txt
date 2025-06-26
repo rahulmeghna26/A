@@ -1,0 +1,8 @@
+Flask
+pyTelegramBotAPI
+psutil
+platformdirs
+yt-dlp
+Faker
+schedule
+requests
