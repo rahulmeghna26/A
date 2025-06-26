@@ -1583,7 +1583,7 @@ def show_main_menu(chat_id, message_id=None):
 
 This bot checks credit cards using Auth.
 """
-    image_url = "https://i.ibb.co/DHtLXvgV/photo-5843525765143054522-c.jpg"
+    image_url = "https://i.ibb.co/s90LJph6/IMG-20250417-125747-537.jpg"
 
     try:
         if message_id:
